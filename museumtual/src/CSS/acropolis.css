@@ -1,0 +1,22 @@
+.Acropolis {
+    color: rgb(181, 115, 49);
+    text-align: center;
+    font-family: 'Lucida Sans';
+    font-size: 50px;
+}
+.brief {
+    text-align: center;
+     /* background-color: rgb(206, 245, 245);
+    border-radius: 20px; */
+} 
+
+/* .title{
+    background-color: rgb(206, 245, 245);
+    border-radius: 20px;
+} */
+
+/* .map {
+    background-color: aquamarine;
+    border-radius: 30px; */
+    /* text-align: center;
+} */
