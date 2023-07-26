@@ -1,4 +1,4 @@
-##Project-4
+## Project-4
 
 # MuseumTual
 
@@ -24,10 +24,10 @@ Node.js
 ### Wins:
 Functionality is working.
 
-#####My Trello:
+##### My Trello:
 ![Trello](https://media.git.generalassemb.ly/user/49241/files/406f07fc-9567-4a61-a236-289997546be8)
 
-####Figma:
+#### Figma:
 ![muse](https://media.git.generalassemb.ly/user/49241/files/308205a2-1f6e-48b1-ad9d-68b955725e4f)
 
 
