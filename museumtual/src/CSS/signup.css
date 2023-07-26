@@ -1,0 +1,53 @@
+
+    img {
+        height: 200px;
+        border-radius: 30px;
+        text-align: center;
+    }
+    
+    .pic22{
+        margin-left: 25px;
+        margin-top: 20px;
+     
+    }
+
+    .boarder36{
+        background-color: gray;
+        border-radius: 30px;
+        width: 40%;
+        margin-left: 5%;
+       
+    }
+    .signup2{
+        margin-left: 20px;
+        
+    }
+    .signup3 {
+        margin-left: 20px;
+    }
+    .signup4{
+        margin-left: 20px;
+    }
+    .signup5{
+        margin-left: 60px;
+    }
+
+     
+    .signup88 {
+    /* font-family: Helvetica; */
+     font-size: 30px;
+     margin-left: 70px;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     color: rgb(102, 102, 153);
+     border-style: inset;
+     padding: 3px;
+     width: 150px;
+
+
+    }
+
+
+
+
+
+  
